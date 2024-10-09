@@ -1,7 +1,112 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\config\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\config\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\repositories\\ifriendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\repositories\\ifriendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\dtos\\friendshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\dtos\\friendshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\blockuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\blockuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\conversationmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\conversationmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\config\\librarynudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\config\\librarynudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009191201_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sem03\\Migrations\\20241009191201_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\config\\datafriendshipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\config\\datafriendshipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009184417_migrate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sem03\\Migrations\\20241009184417_migrate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009182345_migrate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sem03\\Migrations\\20241009182345_migrate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009181812_migrate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sem03\\Migrations\\20241009181812_migrate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|c:\\users\\nguye\\onedrive\\desktop\\smsonline\\aptech_sem3_sms_online\\sem03\\sem03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE7447E5-4720-48F6-99BF-D11E1FA4CCC7}|Sem03\\Sem03.csproj|solutionrelative:sem03\\sem03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +123,344 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FriendshipController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Controllers\\FriendshipController.cs",
+              "RelativeDocumentMoniker": "Sem03\\Controllers\\FriendshipController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Controllers\\FriendshipController.cs",
+              "RelativeToolTip": "Sem03\\Controllers\\FriendshipController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:01:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FriendshipDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\DTOs\\FriendshipDto.cs",
+              "RelativeDocumentMoniker": "Sem03\\DTOs\\FriendshipDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\DTOs\\FriendshipDto.cs",
+              "RelativeToolTip": "Sem03\\DTOs\\FriendshipDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:31:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FriendShip.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\FriendShip.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\FriendShip.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\FriendShip.cs",
+              "RelativeToolTip": "Sem03\\Entities\\FriendShip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FriendshipService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Services\\FriendshipService.cs",
+              "RelativeDocumentMoniker": "Sem03\\Services\\FriendshipService.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Services\\FriendshipService.cs",
+              "RelativeToolTip": "Sem03\\Services\\FriendshipService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:06:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Profile.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Profile.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Profile.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Profile.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:55:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlockUser.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\BlockUser.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\BlockUser.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\BlockUser.cs",
+              "RelativeToolTip": "Sem03\\Entities\\BlockUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:52:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Payment.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:06:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Message.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Message.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:04:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Program.cs",
+              "RelativeDocumentMoniker": "Sem03\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Program.cs",
+              "RelativeToolTip": "Sem03\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:11:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FriendshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Repositories\\FriendshipRepository.cs",
+              "RelativeDocumentMoniker": "Sem03\\Repositories\\FriendshipRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Repositories\\FriendshipRepository.cs",
+              "RelativeToolTip": "Sem03\\Repositories\\FriendshipRepository.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAqwEUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:17:56.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Sem03\\Config\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\DataSeeder.cs",
+              "RelativeToolTip": "Sem03\\Config\\DataSeeder.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAIwMAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:51:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\UserStatus.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\UserStatus.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\UserStatus.cs",
+              "RelativeToolTip": "Sem03\\Entities\\UserStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:45.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFriendshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Repositories\\IFriendshipRepository.cs",
+              "RelativeDocumentMoniker": "Sem03\\Repositories\\IFriendshipRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Repositories\\IFriendshipRepository.cs",
+              "RelativeToolTip": "Sem03\\Repositories\\IFriendshipRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:17:15.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Role.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:47.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\User.cs",
+              "RelativeToolTip": "Sem03\\Entities\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:52:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConversationMember.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\ConversationMember.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\ConversationMember.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\ConversationMember.cs",
+              "RelativeToolTip": "Sem03\\Entities\\ConversationMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Conversation.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Conversation.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Conversation.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Conversation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryNudget.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\LibraryNudget.cs",
+              "RelativeDocumentMoniker": "Sem03\\Config\\LibraryNudget.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\LibraryNudget.cs",
+              "RelativeToolTip": "Sem03\\Config\\LibraryNudget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:40:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241009182345_migrate3.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009182345_migrate3.cs",
+              "RelativeDocumentMoniker": "Sem03\\Migrations\\20241009182345_migrate3.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009182345_migrate3.cs",
+              "RelativeToolTip": "Sem03\\Migrations\\20241009182345_migrate3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:23:45.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241009184417_migrate2.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009184417_migrate2.cs",
+              "RelativeDocumentMoniker": "Sem03\\Migrations\\20241009184417_migrate2.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009184417_migrate2.cs",
+              "RelativeToolTip": "Sem03\\Migrations\\20241009184417_migrate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:44:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\appsettings.json",
+              "RelativeDocumentMoniker": "Sem03\\appsettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\appsettings.json",
+              "RelativeToolTip": "Sem03\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T11:31:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataFriendShipContext.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\DataFriendShipContext.cs",
+              "RelativeDocumentMoniker": "Sem03\\Config\\DataFriendShipContext.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Config\\DataFriendShipContext.cs",
+              "RelativeToolTip": "Sem03\\Config\\DataFriendShipContext.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:11:40.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "Sem03\\Entities\\Attachment.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Entities\\Attachment.cs",
+              "RelativeToolTip": "Sem03\\Entities\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:47:43.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Sem03.csproj",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj",
+              "RelativeDocumentMoniker": "Sem03\\Sem03.csproj",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj",
+              "RelativeToolTip": "Sem03\\Sem03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T10:09:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241009191201_migrate.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009191201_migrate.cs",
+              "RelativeDocumentMoniker": "Sem03\\Migrations\\20241009191201_migrate.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009191201_migrate.cs",
+              "RelativeToolTip": "Sem03\\Migrations\\20241009191201_migrate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:12:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241009181812_migrate2.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009181812_migrate2.cs",
+              "RelativeDocumentMoniker": "Sem03\\Migrations\\20241009181812_migrate2.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Migrations\\20241009181812_migrate2.cs",
+              "RelativeToolTip": "Sem03\\Migrations\\20241009181812_migrate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:18:12.305Z",
+              "EditorCaption": ""
             }
           ]
         }

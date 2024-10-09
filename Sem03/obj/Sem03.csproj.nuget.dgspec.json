@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\Sem03\\Sem03.csproj": {}
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\Sem03\\Sem03.csproj": {
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\Sem03\\Sem03.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj",
         "projectName": "Sem03",
-        "projectPath": "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\Sem03\\Sem03.csproj",
-        "packagesPath": "C:\\Users\\Thuan\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\FPT-Aptech\\Semester 3\\projectSem3\\ProjectBackEnd\\Sem03\\Sem03\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\Sem03.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\smsOnline\\Aptech_sem3_sms_online\\Sem03\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Thuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +46,28 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -74,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
